@@ -1,0 +1,8 @@
+pydub
+librosa
+yt-dlp
+numpy
+customtkinter
+matplotlib
+pyttsx3
+pygame
